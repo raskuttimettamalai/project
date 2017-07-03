@@ -1,0 +1,24 @@
+               {"navbar":
+
+               	[ 					{ 
+ 						"address" :"/home",
+ 						"name" :"Home"
+ 					},
+ 					{ 
+ 						"address" :"/project",
+ 						"name" :"Project"
+ 					},
+ 					{ 
+ 						"address" :"/Qualification",
+ 						"name" :"Qualification"
+ 					},
+ 					{ 
+ 						"address" :"/contact",
+ 						"name" :"contact"
+ 					}
+ 					{
+ 						"address" :"/login",
+ 						"name"    :"login"
+ 					}
+
+ 				]}
